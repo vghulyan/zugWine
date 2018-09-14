@@ -1,0 +1,7 @@
+{
+  "name": "zugWine",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
