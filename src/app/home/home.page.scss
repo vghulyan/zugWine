@@ -1,1 +1,27 @@
+ion-card {
+  overflow: hidden;
+  background: #fff;
+  padding: 1rem;
+  max-width: 100%;
+  margin: 0 0 1rem 0;
+}
+ion-card ion-img {
+  width: 120px;
+  height: 100px;
+  float: left;
+  margin: 0 1rem 0 0;
+}
 
+ion-card ion-card-title {
+  font-weight: 700;
+}
+
+ion-card h2 {
+  font-weight: 500;
+  margin: 0 0 0.5rem 0;
+}
+
+ion-card p {
+  font-weight: 300;
+  margin: 0 0 0.5rem 0;
+}
